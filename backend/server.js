@@ -1,3 +1,4 @@
+//import './src/config/envConfig.js';
 import app from './src/app.js';
 
 app.listen(3000,()=> {
